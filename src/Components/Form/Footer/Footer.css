@@ -1,0 +1,9 @@
+.footer{
+    text-align: center;
+    text-shadow: 0 0.2px 0.5px #000;
+  }
+  .footer a {
+    text-decoration: none;
+    text-shadow: 0.5px 01px #03045e;
+  
+  }

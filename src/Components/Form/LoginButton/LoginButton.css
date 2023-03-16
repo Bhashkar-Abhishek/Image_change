@@ -1,0 +1,55 @@
+.checkbox input{
+    cursor:pointer ;  
+  }
+  .checkbox p{
+    color:#006d77 ;
+    text-shadow: 0 0.2px 0.5px #03045e;
+  
+  }
+  .checkbox:hover input{
+    background-color: gray;
+  }
+  .checkbox a{
+    text-decoration: none;
+  }
+  
+  .login{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+  }
+  .login>button{
+    height: 2rem;
+    width: 17rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #023e8a;
+    border-radius: 8px;
+    box-shadow: 0 5px 0 #240046;
+    color: #eae2b7;
+    text-shadow: 0 0.2px 0.5px #000;
+    font-size: large;
+    font-weight: bold;
+    cursor: pointer;
+    outline: 0;
+    padding: 12px 20px ;
+    transition: all .1s linear;
+   margin-bottom: 3rem;
+  }
+  
+
+.or{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-shadow: 0 0.2px 0.5px #000;
+font-size: medium;
+font-weight: light;
+margin-top: 2rem;
+margin-bottom: 8rem;
+}
+.or p{
+color:#000;
+}

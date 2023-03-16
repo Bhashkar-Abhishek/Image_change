@@ -1,0 +1,28 @@
+.text-box {
+    display: flex;
+    justify-content: center;
+    margin-top: 10rem;
+    margin-bottom: 4rem;
+
+}
+
+textarea {
+    height: 50vh;
+    width: 80vh;
+    letter-spacing: 0.2rem;
+    border: 1px solid gray;
+    background-color: #000;
+    color: yellowgreen;
+    font-size: 1.2rem;
+    font-weight: bold;
+    text-shadow: 10px 10px 20px rgba(0, 0, 0, 0.1), 0 6px 6px rgba(0, 0, 0, 0.1);
+    box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.1), 0 6px 6px rgba(0, 0, 0, 0.1);
+
+}
+
+p {
+    display: block;
+    margin-left: auto;
+    color: red;
+
+}
