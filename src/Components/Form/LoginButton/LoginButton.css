@@ -4,7 +4,7 @@
   .checkbox p{
     color:#006d77 ;
     text-shadow: 0 0.2px 0.5px #03045e;
-  
+    margin:2px;  
   }
   .checkbox:hover input{
     background-color: gray;
